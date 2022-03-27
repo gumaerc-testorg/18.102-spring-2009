@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fa7b8aac-7c5f-fe63-2a7f-7b21160df09f
 resourcetype: Document
 title: Preparatory Questions for Test 1
 uid: 3c7f1fb1-03c1-0aee-c9a3-f8d22955f28d
