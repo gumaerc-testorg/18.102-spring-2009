@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ea15a6ac-0a0f-71d0-74d6-a14bec28e9f6
 ---
@@ -141,7 +144,7 @@ Baire's theorem. Uniform boundedness. Boundedness of weakly convergent sequences
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Fourier series and L2 ([PDF]({{< baseurl >}}/resources/mit18_102s09_lec14))
+Fourier series and L{{< sup "2" >}} ([PDF]({{< baseurl >}}/resources/mit18_102s09_lec14))
 {{< tdclose >}}
 
 {{< trclose >}}
