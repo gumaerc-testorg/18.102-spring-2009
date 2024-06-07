@@ -3,6 +3,7 @@ content_type: resource
 description: "Solutions to a problem set on functional analysis, Hilbert space, Kuiper\u2019\
   s theorem, and Eilenberg\u2019s swindle, "
 file: /courses/18-102-introduction-to-functional-analysis-spring-2009/be7caba0c8e8afb37d9083d6885db02b_MIT18_102s09_sol_pset10.pdf
+file_size: 206223
 file_type: application/pdf
 learning_resource_types:
 - Assignments
