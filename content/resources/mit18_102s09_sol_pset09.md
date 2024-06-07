@@ -3,6 +3,7 @@ content_type: resource
 description: "Solutions to a problem set on functional analysis, periodic functions,\
   \ and Schrodinger\u2019s operator."
 file: /courses/18-102-introduction-to-functional-analysis-spring-2009/197d2c52dd4c6f4e399c5666bf209f01_MIT18_102s09_sol_pset09.pdf
+file_size: 232001
 file_type: application/pdf
 learning_resource_types:
 - Assignments
