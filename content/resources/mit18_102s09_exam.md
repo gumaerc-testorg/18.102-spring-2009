@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam on functional analysis.
-file: /courses/18-102-introduction-to-functional-analysis-spring-2009/d63b0ff1e7860835f04a964746d396bc_MIT18_102s09_exam.pdf
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2009/d63b0ff1e7860835f04a964746d396bc_MIT18_102s09_exam.pdf
 file_size: 200250
 file_type: application/pdf
 learning_resource_types:
