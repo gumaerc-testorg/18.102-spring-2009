@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on functional analysis.
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2009/5c9e3147bc89a403f083c4e6b2d21f89_MIT18_102s09_sol_pset08.pdf
+file: /courses/18-102-introduction-to-functional-analysis-spring-2009/5c9e3147bc89a403f083c4e6b2d21f89_MIT18_102s09_sol_pset08.pdf
 file_size: 153082
 file_type: application/pdf
 learning_resource_types:

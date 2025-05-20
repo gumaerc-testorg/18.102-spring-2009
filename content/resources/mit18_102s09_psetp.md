@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on the theory of Hilbert-Schmidt operators on a separable,
   infinite-dimension, Hilbert space.
-file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2009/af1e359e62fef65661f518e03275e13d_MIT18_102s09_psetp.pdf
+file: /courses/18-102-introduction-to-functional-analysis-spring-2009/af1e359e62fef65661f518e03275e13d_MIT18_102s09_psetp.pdf
 file_size: 87734
 file_type: application/pdf
 learning_resource_types:
