@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Preparatory questions for a test on functional analysis.
-file: /courses/18-102-introduction-to-functional-analysis-spring-2009/ac78858f7cb5f6393ce626a11692a015_MIT18_102s09_exam_pretest02.pdf
+file: /ol-ocw-studio-app/courses/18-102-introduction-to-functional-analysis-spring-2009/ac78858f7cb5f6393ce626a11692a015_MIT18_102s09_exam_pretest02.pdf
 file_size: 169380
 file_type: application/pdf
 learning_resource_types:
